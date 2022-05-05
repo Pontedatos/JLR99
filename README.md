@@ -1,2 +1,3 @@
-# JLR99
-## Este repositorio es del estudiante de Periodismo y Humanidades Javier López, en el cual se encontrarán todas sus prácticas con los correspondientes README que explicaran cada una de ellas y otros dos que expliquen el proceso de creación de una página web y el aprendizaje en la asignatura.
+# Practica-3
+
+## El siguiente repositorio se compone de diversas prácticas con las que practicar el lenguaje de programación Python y la biblioteca de software Pandas. Es un trabajo académico de la Universidad Carlos III de Madrid, creado por Javier LópeZ Rodrigo, para la asignatura Periodismo de Datos.
