@@ -25,4 +25,4 @@ Siguiendo la metodología de la práctica 3, escogemos una base de datos de mane
 - [Conjunto de datos](practica-4.csv)
 - [Visualización](practica-4.png)
 ### Trabajo final
-Para el trabajo final de la asignatura, hemos creado un nuevo repositorio dentro de la organización "Pontedatos" donde hemos compilado todos los trabajos realizados a lo largo del curso, al igual que hemos creado una página web sobre ese mismo repositorio usando Github. También [esto se ve documentado en](metodología.md), así como [el aprendizaje en todo el curso](resumen.md). 
+Para el trabajo final de la asignatura, hemos creado un nuevo repositorio dentro de la organización "Pontedatos" donde hemos compilado todos los trabajos realizados a lo largo del curso, al igual que hemos creado una página web sobre ese mismo repositorio usando Github. También [esto se ve documentado en metodologia.md](metodología.md), así como [el aprendizaje en todo el curso, en el apartado resumen.md](resumen.md). 
