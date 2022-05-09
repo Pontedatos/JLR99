@@ -15,7 +15,7 @@ Uso de APIs con pandas en Python (a través de Jupyter) para acceder, explorar y
 - [Práctica 3 html:](api-covid19-python-y-pandas.html) Documento anterior en formato html.
 - [Práctica 3 mapa ipynb:](api-pandas-folium.ipynb) segunda parte de la práctica 3, usando folium.
 - [Práctica 3 mapa html:](api-pandas-folium.html) mismo documento en formato html.
-- [Práctica 3 explicacion:](practica-3-explicación.md) Reflexionamos sobre lo que hemos hecho.
+- [Práctica 3 explicacion:](practica-3-explicacion.md) Reflexionamos sobre lo que hemos hecho.
 - [Conjunto de datos usado:](prueba-con-python.ipynb)
 ### Práctica 4
 Siguiendo la metodología de la práctica 3, escogemos una base de datos de manera libre para analizarlos, crear una visualización y esbozar una historia con ellos.
