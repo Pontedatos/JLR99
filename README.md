@@ -1,5 +1,5 @@
 # Apuntes de periodismo de datos
-##En este repositorio de Github se recopilarán las prácticas realizadas en la asignatura Periodismo de Datos, impartida en la Universidad Carlos III de Madrid. Son los trabajos de Javier López Rodrigo, alumna de quinto curso de Periodismo y Humanidades.
+## En este repositorio de Github se recopilarán las prácticas realizadas en la asignatura Periodismo de Datos, impartida en la Universidad Carlos III de Madrid. Los trabajos han sido realizados por Javier López Rodrigo, estudiante de quinto curso de Periodismo y Humanidades.
 
 ## Índice de prácticas
 ### Práctica 1
