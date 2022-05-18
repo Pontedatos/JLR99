@@ -1,3 +1,4 @@
+# EXAMEN JAVIER LÓPEZ RODRIGO 
 # Preguntas obligatorias
 ## 1. ¿Quién es Philip Meyer?
 ### Philip Meyer es el inventor del Precision Journalism, publicado en 1973. Actualmente es catedrático en la Universidad de Carolina del Norte. 
