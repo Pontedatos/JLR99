@@ -17,14 +17,13 @@
 ## 3. ¿Cuál es la estructura de las sentencias/instrucciones en la línea de comandos?
 ### La estructura de las sentencias o instrucciones en una línea de comandos se componen de las siguientes partes:
 ### Principalmente encontramos la palabra reservada o instrucción, es decir, la palabra que indica que comando se va a ejecutar.
-Ejemplo, nano, ls
-### Después va a la función de Opción. En algunos comandos se introducen unos caracteres que suelen ir seguidos de - para indicar alguna opción en concreto de la instrucción. 
-Ejemplo, -l
+## Ejemplo: nano, ls
+### Después va a la función de Opción. En algunos comandos se introducen unos caracteres que suelen ir seguidos de - para indicar alguna opción en concreto de la instrucción.
+## Ejemplo: -l
 ### Finalmente tenemos que introducir la ruta. En la mayoría de comandos hay que indicar el archivo sobre el que se va a ejecutar la instrucción.
 
 ## 4. ¿Cuál es la versión de Shell qué utilizas?
-### Se puede comprobar qué shell tienes con el comando echo $SHELL. Por tanto, al ponerlo me sale: /bin/zsh, por lo tanto introduzco otro comando como es el siguiente para que me de la versión que tengo en mi ordenador: [$SHELL --version]. Y el resultado es este: 
-zsh 5.8.1 (x86_64-apple-darwin21.0)
+### Se puede comprobar qué shell tienes con el comando echo $SHELL. Por tanto, al ponerlo me sale: /bin/zsh, por lo tanto introduzco otro comando como es el siguiente para que me de la versión que tengo en mi ordenador: [$SHELL --version]. Y el resultado es este: zsh 5.8.1 (x86_64-apple-darwin21.0)
 
 ## 5. ¿Cómo verías las variable de entorno de tu shell "PATH"? Escribe su valor también.
 ### Las variables se pueden ver con el comando [env]. Como salen muchas cosas en la pantalla y no se pueden leer todas será mejor "paginar" el resultado con [less].
