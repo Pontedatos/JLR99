@@ -1,4 +1,4 @@
-#Preguntas obligatorias
+# Preguntas obligatorias
 ## 1. ¿Quién es Philip Meyer?
 ### Philip Meyer es el inventor del Precision Journalism, publicado en 1973. Actualmente es catedrático en la Universidad de Carolina del Norte. 
 
@@ -32,12 +32,10 @@ $SHELL --version:zsh 5.0.2 (x86_64-pc-linux-gnu)
 ### El operador es la barra vertical | que se escribe con [Alt gr +1]. También se puede ver el valor de una variable con el comando [echo] seguido de la variable, es decir, precedida del símbolo del dólar que indica que se trata de una variable:[echo $PATH].
 
 ## 6. Cuál es el primer comando que deberías usar en la terminal. Explica tu respuesta.
-### El primer comando que se debe utilizar en una termila es pwd, ya que te dice donde estás (print working directory). Este comando es útil ya que es 
-necesario saber donde estás para poder realizar diferentes acciones en la terminal, ubicarte en el directorio correcto y trabajar desde ahí por ejemplo.
+### El primer comando que se debe utilizar en una termila es pwd, ya que te dice donde estás (print working directory). Este comando es útil ya que es necesario saber donde estás para poder realizar diferentes acciones en la terminal, ubicarte en el directorio correcto y trabajar desde ahí por ejemplo.
 
 ## 7. ¿Qué se puede hacer para ver el contenido de un archivo de texto?
-### El comando TYPE sirve para ver el contenido de los archivos de texto planos. Podremos ver el contenido de un archivo pero no lo podremos 
-editar. Y se puede usar con rutas relativas o absolutas.
+### El comando TYPE sirve para ver el contenido de los archivos de texto planos. Podremos ver el contenido de un archivo pero no lo podremos editar. Y se puede usar con rutas relativas o absolutas.
 
 
 # Pregunta de desarrollo
@@ -46,14 +44,10 @@ editar. Y se puede usar con rutas relativas o absolutas.
 ### En el periodismo de datos existen diferentes formatos: 
 ### 1. XML: muy complejo para el nivel en que nos encontramos. Significa eXtensible Markup Language. Son más complicados de leer. Por tanto, es más complicado trabajar con ellos.
 
-### 2. JSON: Significa o JavaScript Object Notation. Permite más complejidad de CSV, pero tambien es mñas difícil de leer.Son los ficheros que mejor 
-funcionan con aplicaciones web. Utilizan la sintaxis de JS.
+### 2. JSON: Significa o JavaScript Object Notation. Permite más complejidad de CSV, pero tambien es mñas difícil de leer.Son los ficheros que mejor funcionan con aplicaciones web. Utilizan la sintaxis de JS.
 
-### 3. *SV: Se trata del comando más usado y más facil de utilizar, suele estar presente en la mayoría de las bases de datos abiertas, con terminación 
-[csv]. Incluso aunque no se empleen comas para separar los valores, son mñas sencillos, pero los menos estandarizados. Los valores separados por comas 
-se pueden ver. 
+### 3. *SV: Se trata del comando más usado y más facil de utilizar, suele estar presente en la mayoría de las bases de datos abiertas, con terminación [csv]. Incluso aunque no se empleen comas para separar los valores, son mñas sencillos, pero los menos estandarizados. Los valores separados por comas se pueden ver. 
 ### Los valores separados por comas se visualizan como una tabla simple con filas y columnas.
 ### La mayoría de los recursos disponibles en los catálogos de Datos Abiertos se encuentran en formato CSV.
-### El portal de datos europeo dispone de más de 120 mil conjuntos de datos en formato CSV, siendo el formato que más abunda en este catálogo de Datos 
-Abiertos.
+### El portal de datos europeo dispone de más de 120 mil conjuntos de datos en formato CSV, siendo el formato que más abunda en este catálogo de Datos Abiertos.
 ### Por su parte, el catálogo nacional datos.gob.es cuenta con casi 14 mil datasets en formato CSV, siendo igualmente el formato mayoritario.
